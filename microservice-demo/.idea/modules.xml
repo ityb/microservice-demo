@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo.iml" filepath="$PROJECT_DIR$/microservice-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo-eureka/microservice-demo-eureka.iml" filepath="$PROJECT_DIR$/microservice-demo-eureka/microservice-demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo-gateway/microservice-demo-gateway.iml" filepath="$PROJECT_DIR$/microservice-demo-gateway/microservice-demo-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo-user-system/microservice-demo-user-system.iml" filepath="$PROJECT_DIR$/microservice-demo-user-system/microservice-demo-user-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo-web/microservice-demo-web.iml" filepath="$PROJECT_DIR$/microservice-demo-web/microservice-demo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miroservice-demo-platform/miroservice-demo-platform.iml" filepath="$PROJECT_DIR$/miroservice-demo-platform/miroservice-demo-platform.iml" />
+    </modules>
+  </component>
+</project>

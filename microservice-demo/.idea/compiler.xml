@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-demo-eureka" />
+        <module name="microservice-demo-gateway" />
+        <module name="microservice-demo-user-system" />
+        <module name="microservice-demo-web" />
+        <module name="miroservice-demo-platform" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-demo" target="1.8" />
+      <module name="microservice-demo-eureka" target="1.8" />
+      <module name="microservice-demo-gateway" target="1.8" />
+      <module name="microservice-demo-user-system" target="1.8" />
+      <module name="microservice-demo-web" target="1.8" />
+      <module name="miroservice-demo-platform" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
