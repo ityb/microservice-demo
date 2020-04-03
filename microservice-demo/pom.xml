@@ -46,6 +46,7 @@
         <module>microservice-demo-user-system</module>
         <module>microservice-demo-gateway</module>
         <module>miroservice-demo-platform</module>
+        <module>microservice-demo-config</module>
     </modules>
 
 

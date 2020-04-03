@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="microservice-demo-config" />
         <module name="microservice-demo-eureka" />
         <module name="microservice-demo-gateway" />
         <module name="microservice-demo-user-system" />
@@ -15,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="microservice-demo" target="1.8" />
+      <module name="microservice-demo-config" target="1.8" />
       <module name="microservice-demo-eureka" target="1.8" />
       <module name="microservice-demo-gateway" target="1.8" />
       <module name="microservice-demo-user-system" target="1.8" />

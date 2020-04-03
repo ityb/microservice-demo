@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microservice-demo.iml" filepath="$PROJECT_DIR$/microservice-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-demo-config/microservice-demo-config.iml" filepath="$PROJECT_DIR$/microservice-demo-config/microservice-demo-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-demo-eureka/microservice-demo-eureka.iml" filepath="$PROJECT_DIR$/microservice-demo-eureka/microservice-demo-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-demo-gateway/microservice-demo-gateway.iml" filepath="$PROJECT_DIR$/microservice-demo-gateway/microservice-demo-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-demo-user-system/microservice-demo-user-system.iml" filepath="$PROJECT_DIR$/microservice-demo-user-system/microservice-demo-user-system.iml" />
